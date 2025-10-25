@@ -25,3 +25,9 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 ## Documentation
 
 [Documentation](https://linktodocumentation)
+
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** Node, Express
